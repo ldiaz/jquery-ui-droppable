@@ -1,0 +1,20 @@
+{
+  "name": "jquery-ui-droppable",
+  "version": "1.11.4",
+  "homepage": "https://github.com/ohukc/jquery-ui-droppable",
+  "authors": [
+    "Alex <grigorjevs.a@gmail.com>"
+  ],
+  "description": "Contains only jquery-ui draggable and droppable components",
+  "main": "./dist/jquery-ui-droppable.js",
+  "devDependencies": {
+    "jquery-ui": "~1.11.4"
+  },
+  "keywords": [
+    "jquery",
+    "jquery-ui",
+    "draggable",
+    "droppable"
+  ],
+  "license": "MIT"
+}
